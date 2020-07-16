@@ -1,17 +1,8 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on some prototypes
+| Hi There! 👋 | ![enter image description here](https://ssw.com.au/SSW/images/Raven/SSWLogo.svg) |
+|--|--|
+ - 🔭 I’m currently working on some prototypes
 - 🏃 I work at SSW https://ssw.com.au
 - 🌱 I’m currently learning Swfit
 - 💬 Ask me about UX UI Prototypes Product Desgin 
 
-```mermaid
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
