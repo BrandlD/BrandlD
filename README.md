@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning Swfit
 - 💬 Ask me about UX UI Prototypes Product Desgin 
 
-
+```
+    https://unpkg.com/mermaid@7.1.0/dist/
+    ```
 journey
     title My working day
     section Go to work
